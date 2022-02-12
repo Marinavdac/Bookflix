@@ -1,0 +1,30 @@
+@media screen and (max-width: 700px) {
+  header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    margin-top: -3rem;
+    width: 12rem;
+    height: 5.3rem;
+    z-index: 1;
+  }
+
+  .button {
+    margin-bottom: 0.3rem;
+  }
+
+  .footer-legal-list{
+      justify-content: flex-start;
+  }
+  
+  .footer-menu {
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+};
+
