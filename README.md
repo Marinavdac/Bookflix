@@ -8,7 +8,7 @@ Para ver a página no seu Browser e ver alguns clássicos da literatura de ficç
 
 ## Como Instalar:
 
-* Clone o repositório: Nesse [Link](git@github.com:Marinavdac/bookflix.git)
+* Clone o repositório
 * Acesse a pasta da aplicação, onde está o index.html
 * Use o Live Server para ver a página no seu Browser Local
 
